@@ -1,0 +1,10 @@
+[Applet Factory]
+Id=HelloPyAppletFactory
+Location=/usr/lib/mate-applets/hello-py-applet
+Name=Hello Python Applet
+Description=A MATE Python Applet example factory
+
+[HelloPyApplet]
+Name=HelloPyApplet
+Description=A MATE Python Applet example
+Icon=desktop
